@@ -4,6 +4,6 @@
 <title>Page Title</title>
 </head>
 <body>
-<img src="/Users/divyansh/Desktop/resumeimg.png" alt="resumeimg">
+<img src="resumeimg.png" alt="resumeimg">
 </body>
 </html>
